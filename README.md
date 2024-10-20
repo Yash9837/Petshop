@@ -23,5 +23,5 @@ This project is a feature-rich web application for a pet shop, built using Djang
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/pet-shop-website.git
-   cd pet-shop-website
+   git clone https://github.com/Yash9837/petshop.git
+   
